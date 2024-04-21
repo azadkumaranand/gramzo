@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths" : {
+      "@/*": ["src/components/*"],
+      "@const/*": ["src/constants/*"],
+      "@func/*": ["src/functions/*"],
+      "@rdx/*": ["src/redux toolkit/*"],
+      "@assets/*":["assets/*"]
+    }
+  }
+}

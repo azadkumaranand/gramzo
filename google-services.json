@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "918961137047",
+    "project_id": "auntypanel",
+    "storage_bucket": "auntypanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918961137047:android:d9d816b3fb937af8eed0d2",
+        "android_client_info": {
+          "package_name": "com.up8560000.auntypanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918961137047-mlj2l7v0bmkh4e0th102n1h15qgm224t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.up8560000.auntypanel",
+            "certificate_hash": "70a353d3f45e29fe495b4cd46d44e9e7db2b47f0"
+          }
+        },
+        {
+          "client_id": "918961137047-lkm1e6njtdn8fvl1uaseu9laptk9qbpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmrcquwTbBv01tbWi_gmnMZjd7CMY7z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918961137047-lkm1e6njtdn8fvl1uaseu9laptk9qbpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "918961137047-mtr42q43dlu27jqus9f91clsjtsnt1p3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.up8560000.auntypanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
